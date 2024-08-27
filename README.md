@@ -14,7 +14,7 @@
 🚀 I'm always learning and evolving with the latest technologies in Python, Data Science, and AI. Check out my Tableau Data Visualizations to see some of the work I’ve been doing:
 
 ## 🔍 Check out my Tableau Data Visualizations:
-[![Tableau Public Profile](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/jeyanthi.thiagarajan/vizzes)
+## [![Tableau Public Profile](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/jeyanthi.thiagarajan/vizzes)
 
 - 🔭 I’m currently working on Recommender Systems
 - 🌱 I’m currently learning Advanced AI tools and how to leverage the latest AI tools to improve business outcomes.
