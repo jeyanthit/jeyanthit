@@ -4,6 +4,7 @@ I’ve been in the tech industry for 15+ years, with the last 5+ years focused s
 - 🔭 I’m currently working on Recommender Systems
 - 🌱 I’m currently learning Advanced AI tools and how to leverage the latest AI tools to improve business outcomes.
 - 👯 I’m looking to collaborate with like-minded people with similar interests...
+- 👯 Check out my Tableau Data Viz: (https://public.tableau.com/app/profile/jeyanthi.thiagarajan/vizzes)
 <!--
 **jeyanthit/jeyanthit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
