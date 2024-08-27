@@ -1,6 +1,6 @@
-👋 Hi, I'm Jeyanthi Thiagarajan, passionate about Machine Learning / AI & Data science with over 15 years of experience in the tech industry, including 5+ years focused on Machine Learning, AI, and data science. I'm currently working at NextGenisys, blending my expertise in software development with my deep knowledge of Data Science and AI.
+👋 Hi, I'm Jeyanthi Thiagarajan, passionate about Machine Learning / AI & Data Science with over 15 years of experience in the tech industry, including 5+ years focused on Machine Learning, AI, and Data Science. I'm currently working at NextGenisys, blending my expertise in software development with my deep knowledge of Data Science and AI.
 
-🌟 I specialize in developing, deploying, and monitoring & maintaining Machine Learning Models, and I'm constantly exploring advanced AI tools to enhance business outcomes. I have a keen interest in collaborating with like-minded professionals and contributing to impactful projects that leverage data to solve real-world problems.
+🌟 I specialize in developing, deploying, and monitoring & maintaining Machine Learning Models, and I'm constantly exploring advanced AI tools to enhance business outcomes. I have a keen interest in collaborating with commercial businesses and contributing to impactful projects that leverage data to solve real-world problems.
 
 🔍 My journey began as a Technical Lead and Senior Consultant, and I later transitioned into Data Science and Machine Learning. This hybrid background gives me a unique perspective on both the engineering and data aspects of the tech world.
 
