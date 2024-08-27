@@ -1,6 +1,13 @@
-👋 Hi, I'm Jeyanthi Thiagarajan, passionate about Machine Learning / AI & Data Science with over 15 years of experience in the tech industry, including 5+ years focused on Machine Learning, AI, and Data Science.  Currently, at NextGenisys, I combine my background in software development with advanced ML, Data Science, and AI techniques to deliver impactful solutions. Also as a Tech Lead & Manager, I have overseen and handled projects end-to-end, while also leading and mentoring junior team members and actively engaging with stakeholders to ensure success.
-
-🌟 I specialize in developing, deploying, and monitoring & maintaining Machine Learning Models, and I'm constantly exploring advanced AI tools to enhance business outcomes. I have a keen interest in collaborating with commercial businesses and contributing to impactful projects that leverage data to solve real-world problems.
+## Hi, I'm Jeyanthi Thiagarajan, 
+     - Passionate about Machine Learning / AI & Data Science 
+- 🌟**15+ years experience** in tech, with **5+ years** focused on **Machine Learning**, **AI**, and **Data Science**.
+- 🌟**Tech Lead & Manager** at **NextGenisys**, overseeing **end-to-end projects** and mentoring junior team members.
+- 🌟Combines expertise in **software development** with advanced **ML, AI, and Data Science** techniques.
+- 🌟Specializes in **developing, deploying, and maintaining** Machine Learning models.
+- 🌟Strong in **stakeholder engagement** to ensure project success.
+- 🌟Continuously exploring advanced **AI tools** to improve business outcomes.
+- 🌟**Background** as a **Technical Lead** and **Senior Consultant**, transitioning into **Data Science** and **Machine Learning**.
+- 🌟Keen on collaborating with **commercial businesses** on **data-driven** solutions for real-world problems.
 
 🔍 My journey began as a Technical Lead and Senior Consultant, and I later transitioned into Data Science and Machine Learning. This hybrid background gives me a unique perspective on both the engineering and data aspects of the tech world.
 
