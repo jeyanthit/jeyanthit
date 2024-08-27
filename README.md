@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Recommender Systems
 - 🌱 I’m currently learning Advanced AI tools and how to leverage the latest AI tools to improve business outcomes.
-- 👯 I’m looking to collaborate with like-minded people with similar interests...
+- 👯 I’m looking to collaborate with businesses to unlock the power of data to drive business outcomes.
 
 -![Jeyanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyanthit)
 
