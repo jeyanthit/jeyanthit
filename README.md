@@ -2,7 +2,7 @@ My Name is Jeyanthi Thiagarajan, and I'm working with NextGenisys interested in 
 I’ve been in the tech industry for 15+ years, with the last 5+ years focused specifically on machine learning and AI. I started my IT career, working as a technical lead and senior consultant before transitioning into data science and machine learning. I have a blend of experience in both software development and ML, AI & DataScience
 
 - 🔭 I’m currently working on Recommender Systems
-- 🌱 I’m currently learning Advanced AI tools and how to leverage the latest AI to improve business outcomes.
+- 🌱 I’m currently learning Advanced AI tools and how to leverage the latest AI tools to improve business outcomes.
 - 👯 I’m looking to collaborate with like-minded people with similar interests...
 <!--
 **jeyanthit/jeyanthit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
