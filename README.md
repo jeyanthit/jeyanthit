@@ -6,7 +6,7 @@
 - 🌟Specializes in **developing, deploying, and maintaining** Machine Learning models.
 - 🌟Strong in **stakeholder engagement** to ensure project success.
 - 🌟Continuously exploring advanced **AI tools** to improve business outcomes.
-- 🌟**Background** as a **Technical Lead** and **Senior Consultant**, transitioning into **Data Science** and **Machine Learning**.
+- 🌟**Background** as a **Technical Lead** and **Senior Consultant**, transitioned into **Data Science** and **Machine Learning**.
 - 🌟Keen on collaborating with **commercial businesses** on **data-driven** solutions for real-world problems.
 
 🔍 My journey began as a Technical Lead and Senior Consultant, and I later transitioned into Data Science and Machine Learning. This hybrid background gives me a unique perspective on both the engineering and data aspects of the tech world.
